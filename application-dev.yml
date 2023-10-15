@@ -10,4 +10,4 @@ eureka:
 
 spring:
   application:
-    name: DEV-PROFILE
+    name: DEV-PROFILE-EDITED
