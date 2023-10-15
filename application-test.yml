@@ -10,4 +10,4 @@ eureka:
 
 spring:
   application:
-    name: DEFAULT-PROFILE
+    name: TEST-PROFILE
