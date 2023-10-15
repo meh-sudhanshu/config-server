@@ -10,4 +10,4 @@ eureka:
 
 spring:
   application:
-    name: TEST-PROFILE
+    name: banking-portal-test-profile
