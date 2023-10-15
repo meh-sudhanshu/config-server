@@ -10,4 +10,4 @@ eureka:
 
 spring:
   application:
-    name: PROD-PROFILE
+    name: BANKING-PORTAL-PROD-PROFILW
